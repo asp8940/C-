@@ -1,0 +1,4 @@
+https://note.kimx.info/2016/06/remove-visual-studio-2015-git-control.html
+如遇到 C#  被 git 綁定
+將隱藏的 .git目錄、.gitattributes及.gitignore刪除(SHFIT+DEL)
+重起即可
