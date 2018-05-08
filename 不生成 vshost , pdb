@@ -1,0 +1,2 @@
+open debug頁面，Release --> 取消 Visual Studio Hosting Process有效
+open build頁面，Release --> 詳細設定 --> 输出 --> Debug --> pdb only 選為 none
